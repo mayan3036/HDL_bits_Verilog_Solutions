@@ -10,3 +10,4 @@ always @(in)begin
     end
 end
 endmodule
+// we can also declare a reg element "count" and do operation on it and later make out=count;
