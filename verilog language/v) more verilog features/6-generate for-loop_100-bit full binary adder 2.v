@@ -19,3 +19,4 @@ module top_module(
         end
     endgenerate
 endmodule
+/*the generate statement is used to create repetitive or conditional hardware structures during synthesis. It allows for the instantiation of modules, blocks, or logic based on parameters, loops (genvar with for), or conditional directives (if-generate or case-generate), making designs more modular and scalable. 
